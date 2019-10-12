@@ -499,7 +499,7 @@ body {
     margin: 1px;
   }
   .post-image img {
-    height: auto;
+    height: 250px;
   }
   .about-container {
     display: flex;
